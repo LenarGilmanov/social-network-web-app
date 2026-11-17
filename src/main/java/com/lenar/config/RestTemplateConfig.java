@@ -1,4 +1,4 @@
-package com.lenar.controller.config;
+package com.lenar.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
